@@ -6,7 +6,7 @@
   <h3 align="center">Synapse.</h3>
 
   <p align="center">
-    Programmer • Founder of Ares
+    Programmer • Founder of DeadlySins.
     <br />
     <a href="https://discord.gg/rchHUU9aGk">Join the Discord</a>
   </p>
