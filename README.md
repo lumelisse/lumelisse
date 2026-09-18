@@ -6,7 +6,7 @@
   <h3 align="center">Synapse.</h3>
 
   <p align="center">
-    Programmer • Founder of DeadlySins.
+    Programmer • Owner of DeadlySins.
     <br />
     <a href="https://discord.gg/MsxgXWA9Mt">DeadlySins.</a>
   </p>
