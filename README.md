@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/lumelisse">
   </a>
-
+<img src="assets/logo.png" alt="Logo" width="150" height="150">
   <h3 align="center">Synapse.</h3>
 
   <p align="center">
