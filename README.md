@@ -8,7 +8,7 @@
   <p align="center">
     Programmer • Founder of DeadlySins.
     <br />
-    <a href="https://discord.gg/MsxgXWA9Mt">Join the Discord</a>
+    <a href="https://discord.gg/MsxgXWA9Mt">DeadlySins.</a>
   </p>
 </p>
 
