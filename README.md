@@ -37,7 +37,7 @@
 
 ## Contact
 
-- Discord: <a href="https://discordapp.com/users/970282290905231390">@lumelisse</a>
+- Discord: <a href="https://discordapp.com/users/970282290905231390">@ghoststeal</a>
 - GitHub: <a href="https://github.com/lumelisse">lumelisse</a>
 - TryHackMe: <a href="https://tryhackme.com/p/lumelisse">lumelisse</a>
 
