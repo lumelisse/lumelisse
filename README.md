@@ -8,7 +8,7 @@
   <p align="center">
     Programmer • Owner of DeadlySins.
     <br />
-    <a href="https://discord.gg/MsxgXWA9Mt">DeadlySins.</a>
+    <a href="https://discord.gg/5-6">DeadlySins.</a>
   </p>
 </p>
 
